@@ -1,0 +1,6 @@
+export const SET_LOGIN = "SET_LOGIN"
+export const SET_LOGIN_SUCCESS = "SET_LOGIN_SUCCESS"
+export const SET_LOGIN_FAILURE = "SET_LOGIN_FAILURE"
+export const SET_LOGIN_INIT = "SET_LOGIN_INIT"
+
+export const STORE_INIT = "STORE_INIT"
